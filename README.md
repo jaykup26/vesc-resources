@@ -11,10 +11,9 @@ A list of devices, projects, add-ons and hardware that run or work with the VESC
 #### Yours Truly is a free app and logs with any bluetooth adapter.  Only works on iOS and sharing/viewing other people's logs is the main limitation
 #### I think the Stormcore app is also iOS only
 
-
-|VESC Tool|VESC tool mobile saves logs   free app and logs with any bluetooth adapter.  Only works on iOS an as .csv which can be loaded into the VESC tool desktop.|Link1|Link2|Link3|
-
-![UnityUart](https://user-images.githubusercontent.com/628881/209856331-cd9cb3e9-0142-41c9-8a92-89aafc1db2f1.jpg)
+|Device||Discussion|Store|Github||
+|---|---|---|---|---|---|
+|VESC Tool|VESC tool mobile saves logs   free app and logs with any bluetooth adapter.  Only works on iOS an as .csv which can be loaded into the VESC tool desktop.|Link1|Link2|Link3||
 
 ## Loggers - Dedicated Hardware
 #### Metr
